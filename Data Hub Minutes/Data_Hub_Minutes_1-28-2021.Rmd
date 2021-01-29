@@ -1,0 +1,33 @@
+---
+title: "Data_Hub_Minutes_1-28-2021"
+author: "Joseph Rickert"
+date: "1/28/2021"
+output: html_document
+---
+
+# Minutes of the January 28, 2021 Meeting
+
+Minutes by Joseph Rickert
+
+### Attendees
+* Emanuele Guidotti
+* Eric Suess
+* Joseph Rickert
+
+### Minutes
+The group discussed establishing a time for a regular monthly that would include participants from all COVID1-9 WG members. Eric took the action item to find a time that work for him and other CSUEB members.
+
+The group also discussed several ways to promote the Data-Hub project including an R Consortium social media campaign with tweets and blogs that would regularly high light accomplishments such as new data sets added and occasionally give shour outs to CSUEB students who become involved. 
+
+One possible blog post would be to describe the cycle of how the Data Hub adds value to case count data sets. For example, the Data Hub takes NY Times dase count data, merges it with other exogenous data, which is then cited in news stories andacademic papers. 
+
+Another possible post idea is to talk about the acedemic work that has used the data.
+
+Emanuele provided a links to [academic research papers using the Data Hub](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1585537563493742217) and [some other projects](https://covid19datahub.io/articles/usage.html).
+
+Emanuele also suggested that it would be very helpful to creat a new tutorial on how to use the Data Hub.
+
+Eric and Emanuele and other members of the technical will meet as needed. 
+
+The next monthly meeting will be scheduled after Eric suggests a day and time.
+
